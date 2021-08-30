@@ -1,4 +1,7 @@
-![GitHubGif](https://user-images.githubusercontent.com/89322549/130699423-8853fc6c-85b3-4298-a40b-623058959c37.gif)
+![OriginalGifAkatsuki](https://user-images.githubusercontent.com/89322549/131285267-559fa518-0e05-4f2d-9830-e6fa6c6fb4cc.gif)
+<br>
+<br>
+<br>
 
 # Hi there! :wave:
 
