@@ -8,5 +8,9 @@
 > :books: I am currently intensely studying new technologies!
 <br>
 
-![OriginalGifAkatsuki](https://user-images.githubusercontent.com/89322549/131285267-559fa518-0e05-4f2d-9830-e6fa6c6fb4cc.gif)
+<div align="center">
+<img max-width="500" src="https://user-images.githubusercontent.com/89322549/131285267-559fa518-0e05-4f2d-9830-e6fa6c6fb4cc.gif"/>
+ </div>
+
+
 
