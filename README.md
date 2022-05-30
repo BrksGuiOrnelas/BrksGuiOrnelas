@@ -9,7 +9,7 @@
 <br>
 
 <div align="center">
-<img max-width="500" src="C:\Users\guiornelas\Downloads\ezgif.com-gif-maker.gif"/>
+<img max-width="500" src= "https://user-images.githubusercontent.com/89322549/170995667-a311defe-cfc7-4949-8fe9-a65b68c85446.gif" />
  </div>
 
 
