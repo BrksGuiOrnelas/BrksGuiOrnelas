@@ -10,7 +10,7 @@ Sou um Cientista de Dados, Graduando em Ciência de Dados pela Universidade Est�
 
 Onde me encontrar: <br>
 🎲 <a href= "https://www.linkedin.com/in/guilherme-ornelas-644b19182" rel="nofollow"> LinkedIn </a>
-<br><br>
+<br>
 
 <div align="center">
 <img max-width="500" src= "https://user-images.githubusercontent.com/89322549/170995667-a311defe-cfc7-4949-8fe9-a65b68c85446.gif" />
