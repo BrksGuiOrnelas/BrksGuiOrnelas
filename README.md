@@ -1,6 +1,6 @@
 # Sejam Bem vindos ao meu perfil! :wave:🖖
 
-:brain: Sou um Cientista de Dados, Graduando em Ciência de Dados pela Universidade Estácio de Sá, apaixonado por Inteligência Artificial, Machine Learning e Deep Learning.
+:brain: Sou um Cientista de Dados,  apaixonado por Inteligência Artificial, Machine Learning e Deep Learning! :brain: :heart:
 <br><br>
 
 :seedling: Tenho experiencia com Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn, Extração, Limpeza e tratamento de dados, Análise exploratória e Modelagem de dados; Bibliotecas e ferramentas de Machine Learning e Deep Learning como Visão Computacional, NLP, OpenCV, Rede YOLO.
